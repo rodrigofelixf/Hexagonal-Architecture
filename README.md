@@ -21,6 +21,10 @@ O objetivo principal deste projeto é estudar sobre arquitetura hexagonal e impl
 * Lombok
 * ModelMapper
 
+## Referencias:
+* [Baeldung - Hexagonal Architecture](https://www.baeldung.com/hexagonal-architecture-ddd-spring)
+* [Dailan Bueno - Youtube](https://www.youtube.com/watch?v=9T7Oswnx_IM)
+
 
 #### Sinta-se à vontade para explorar o código-fonte, oferecer sugestões e contribuir com o projeto.
 
